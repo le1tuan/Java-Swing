@@ -1,2 +1,2 @@
 # Java-Swing
-Run CourseManDemo to run program
+Run CourseManDemo to start program
